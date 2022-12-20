@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_section_imgage_grids",
+  "info": {
+    "displayName": "imgage_grid",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}
